@@ -11,7 +11,7 @@ Main analysis scripts are:
 'AffDysPattern_reliability' was used to calculate internal consistency, as reported in the methods section
 
 MCMC results of stan models were too large and led to error messages on upload. If you want to reproduce our exact
-Bayes factors, please send a message to mauriziosicorello@gmail.com and/or twitter/researchgate.
+Bayes factors, please send a message to mauriziosicorello@gmail.com and/or via twitter/researchgate.
 
 Paths are set relative to script location, but this might only work on windows machines.
 If it doesn't work, check the "setwd()" commands, especially the path separator ("/" or "\")
